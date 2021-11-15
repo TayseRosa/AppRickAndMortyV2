@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "desafio-mobile-tayserosa",
+    "slug": "desafio-mobile-tayserosa",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "desafio-mobile-tayserosa"
+}
