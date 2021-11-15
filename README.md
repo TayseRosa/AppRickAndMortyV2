@@ -1,38 +1,38 @@
-<h1 align="center"> Desafio Superlógica - Tayse Rosa </h1>
+<h1 align="center"> App Rick and Morty </h1>
 
 #Índice
 - [Demo](#demo)
 - [Sobre](#sobre)
-- [Technologias usadas](#technologias-usadas)
+- [Tecnologias usadas](#tecnologias-usadas)
 - [Como usar](#como-usar)
 
 ---
 
 ## Demo
-Link do expo: https://snack.expo.dev/@tayse_rosa/desafiosuperlogicatayse
+Link do expo: https://snack.expo.dev/@tayse_rosa/apprickandmorty
 
 ---
 
 ## Sobre
-O projeto foi desenvolvido com a finalidade de realizar o teste de desenvolvedor mobile junior na Superlógica Tecnologias
+O projeto foi desenvolvido com o objetivo de treinar habilidades de acesso a API do Rick and Morty.
 
 ---
 
-## Technologias usadas
+## Tecnologias usadas
 🚀O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - React Native
-- Javascript
-- Flexbox
+- Expo
 - Typescript
+- Styled components
+- Flexbox
 - React Navigation
+- Components
 - Async Await
 - useStates
 - useEffect
 - useLayoutEffect
 - Async Storage
-- Styled components
-- Components
 
 ---
 
@@ -41,10 +41,10 @@ O projeto foi desenvolvido com a finalidade de realizar o teste de desenvolvedor
 ```js
 
     //Clone the repository
-    $ git clone https://github.com/TayseRosa/jsEletronicBox.git
+    $ git clone https://github.com/TayseRosa/AppRickAndMortyV2.git
 
     //Enter the directory 
-    $ cd jsEletronicBox
+    $ cd AppRickAndMortyV2
 
     //Install libs
     $ yarn install
